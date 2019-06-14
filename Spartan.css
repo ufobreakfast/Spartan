@@ -1,0 +1,48 @@
+h2, h3 {
+  text-align: center;
+}
+
+h5  {
+text-align: center;
+color: #b50707;
+}
+
+p {
+  text-align: center;
+}
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #b50707;
+   color: white;
+   text-align: center;
+}
+
+div.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.carousel-control-next   {
+
+  background-color: #b50707;
+
+}
+
+.carousel-control-prev  {
+  background-color: #b50707;
+
+}
+img {
+  align-content: center;
+}

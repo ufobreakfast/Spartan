@@ -1,0 +1,21 @@
+
+
+p {
+  text-align: center;
+}
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #b50707;
+   color: white;
+   text-align: center;
+}
+
+
+img {
+  align-content: center;
+}
